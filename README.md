@@ -43,4 +43,8 @@ Criado por [GabzFonseca](https://www.linkedin.com/in/gabz-fonseca).
 
 ---
 
+<<<<<<< HEAD
 Espero que este README forneça todas as informações necessárias para entender, instalar e utilizar o projeto do relógio analógico e digital. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou um pull request no repositório.
+=======
+#Espero que este README forneça todas as informações necessárias para entender, instalar e utilizar o projeto do relógio analógico e digital. Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para abrir uma issue ou um pull request no repositório.
+>>>>>>> 2162853d8f36824f1128f03433ae2e8beed1798b
